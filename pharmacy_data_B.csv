@@ -1,0 +1,6 @@
+MedicationID,MedicationName,Strength,DosageForm,Manufacturer,QuantityOnHand,UnitPrice
+102,Ibuprofen,200mg,Tablet,Advil,180,7.25
+103,Acetaminophen,325mg,Capsule,Tylenol,200,6.25
+105,Lisninopril,10mg,Tablet,AstraZeneca,80,25.5
+106,Metformin,500mg,Tablet,Bristol-Myers Squibb,120,15.75
+107,Atorvastatin,20mg,Tablet,Pfizer,90,30

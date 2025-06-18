@@ -1,0 +1,7 @@
+MedicationID,MedicationName,Strength,DosageForm,Manufacturer,QuantityOnHand,UnitPrice
+101,Aspirin,500mg,Tablet,Bayer,150,5.99
+102,Ibuprofen,200mg,Tablet,Advil,200,7.5
+103,Acetaminophen,325mg,Capsule,Tylenol,180,6.25
+104,Amoxicillin,250mg/5ml,Oral Suspension,Generic Pharma,100,12
+105,Lisinopril,10mg,Tablet,AstraZeneca,75,26
+106,Metformin,500mg,Tablet,Bristol-Myers Squibb,120,15.75
