@@ -1,0 +1,17 @@
+CREATE TABLE Pharmacy_Inventory_A 
+(Medication_ID INT PRIMARY KEY,
+Medication_Name VARCHAR(100),
+Strength VARCHAR(50),
+Dosage_Form VARCHAR(50),
+Manufacturer VARCHAR(100),
+Quantity_On_Hand INT,
+Unit_Price DECIMAL(10, 2));
+
+CREATE TABLE Pharmacy_Inventory_B  
+(MedicationID INT PRIMARY KEY,
+MedicationName VARCHAR(100),
+Strength VARCHAR(50),
+DosageForm VARCHAR(50),
+Manufacturer VARCHAR(100),
+QuantityOnHand INT,
+UnitPrice DECIMAL(10, 2));
